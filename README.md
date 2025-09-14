@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Alireza+👋;Welcome+to+my+GitHub;Always+learning+🚀)](https://git.io/typing-svg)
+![Banner](./Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 ## my skill
 ___
